@@ -18,6 +18,7 @@
 <link rel="stylesheet" href="../css/nstyle.css" />
 </head>
 <body>
+<h1>hihi</h1>
 <c:if test="${empty sessionScope.uid }">
 	<a href="../login/login.do">login</a>
 </c:if>
